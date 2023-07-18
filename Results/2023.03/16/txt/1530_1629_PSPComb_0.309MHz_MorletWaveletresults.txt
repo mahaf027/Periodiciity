@@ -1,0 +1,14 @@
+Morlet wavelet, w_0 = 6
+Starting scale: 6.991 seconds (2.0 * timestep)
+16.0 steps per octave
+Estimated AR1 coefficient: 0.98
+GLOBAL PERIODICITIES (red noise):
+2.84 +0.39 -2.53 minutes
+5.45 +0.49 -0.87 minutes
+GLOBAL PERIODICITIES (white noise):
+2.84 +27.97 -1.79 minutes
+5.45 +25.37 -4.40 minutes
+7.38 +23.44 -6.33 minutes
+12.41 +18.41 -11.36 minutes
+18.32 +12.49 -17.27 minutes
+29.51 +1.31 -28.46 minutes
